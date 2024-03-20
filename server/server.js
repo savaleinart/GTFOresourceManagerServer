@@ -1,3 +1,5 @@
+const WebSocket = require('ws')
+
 const wss = new WebSocket.Server({port: 10101})
 
 let dataString = null
