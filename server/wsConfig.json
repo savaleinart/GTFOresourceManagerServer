@@ -1,0 +1,4 @@
+{
+    "serverPort": 10101,
+    "tunnelUrl": "ws://localhost:10101"
+}
